@@ -155,7 +155,7 @@ function masonry_grid_settings_page() {
     <div class="video-link">
     <h3>Video Tutorial</h3>
     
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/1ZmUUkivfwg?si=fVdtF579rpRE-nY9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/0YNg_P1gfnY?si=7VmbwbWjW9fXMG0j&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     
     </div>
     
